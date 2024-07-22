@@ -118,3 +118,16 @@ _logger.LogInformation("Data fetched for Doctor " + filtered.Count + " record(s)
 
 
 
+Levels of logging:
+Trace = 0, Debug = 1, Information = 2, Warning = 3, Error = 4, Critical = 5, and None = 6.
+
+Different Providers???
+
+
+Different Logging Managers
+
+- ASP.NET logging
+  - Comes by default with Aspire .Net
+- NLog
+- SeriLogging
+- 
