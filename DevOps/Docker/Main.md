@@ -1,4 +1,8 @@
 
+Run the container
+
+docker run -it --rm -p <server-port>:<container-port> --name
+
 
 Connect to a docker container interactively to explore
 
