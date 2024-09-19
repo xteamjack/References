@@ -14,3 +14,9 @@
   - https://github.com/Dhravya/cloudflare-saas-stack
 - LLM Virtualization - LLM OS
   - https://github.com/phidatahq/phidata/tree/main/cookbook/llm_os
+- Theia - Desktop and Browser based IDE built on Eclipse
+  - https://github.com/eclipse-theia/theia
+- .Net bootstrapping Clean architecture Kit
+  - https://github.com/ardalis/CleanArchitecture
+- LLM for Code Development
+  - https://github.com/saoudrizwan/claude-dev
