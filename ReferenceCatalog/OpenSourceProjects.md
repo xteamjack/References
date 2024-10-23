@@ -20,3 +20,6 @@
   - https://github.com/ardalis/CleanArchitecture
 - LLM for Code Development
   - https://github.com/saoudrizwan/claude-dev
+- Personal journal, AI and lots of other features
+  - https://b3log.org/siyuan/en/
+- Chatwood - opensource call center communication toolset

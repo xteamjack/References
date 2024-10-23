@@ -197,20 +197,20 @@ Resume Ranking
 https://www.youtube.com/watch?v=CphVOnBUkg4
 https://www.youtube.com/watch?v=CphVOnBUkg4
 
-Resume Analyzer
+Resume Analyzer  - Try
 Provide a good data extraction and insights on a resume. Through and comprehensive tutorial, good read
 https://www.youtube.com/watch?v=CC2q_IVwMwA&list=PLZLuc8eJafeEuR-7X5pb6xgGOPosuVty0
+https://www.youtube.com/playlist?list=PLZLuc8eJafeEuR-7X5pb6xgGOPosuVty0
+https://github.com/Spidy20/Smart_Resume_Analyser_App?tab=readme-ov-file
+
 
 Web3.0 Health Care Management Dapp | Next.js, Solidity, Hardhat & Context API Dapp
 https://www.youtube.com/watch?v=fWFP32vlkPs&t=6s
 
-Resume Analyzer
-Extract basic information from resumes, 
-https://github.com/Spidy20/Smart_Resume_Analyser_App?tab=readme-ov-file
-https://www.youtube.com/playlist?list=PLZLuc8eJafeEuR-7X5pb6xgGOPosuVty0
+ 
 
-Job CV Matching
-https://www.youtube.com/watch?v=EECUXqFrwbc
+
+Job CV Matching - Checkin
 https://www.youtube.com/watch?v=EECUXqFrwbc
 
 Collaborative Cloud Code Editor
@@ -259,7 +259,7 @@ AI HR suggest jobs for a resume [2*]
 Scrapes Glassdoor Jobs, maps with resume parsed wity pyresparse. Source available as three notebooks
 https://www.youtube.com/watch?v=X83cDfwtFpw
 
-Resume creation and parsing [3*]
+Resume creation and parsing [3*]  - Checkin
 A good series on resume parsing and creation. Complete NextJS app, parsing with typescript regex
 - Fresh resume can be created by fill in the data
 - An uploaded resume is parse to extract different data sections which can be augmented
@@ -283,10 +283,23 @@ https://www.youtube.com/watch?v=Hqj6UH-CEu4
 
 AI Based web scraping
 https://www.youtube.com/watch?v=-IAwW3pUEew
+https://www.youtube.com/watch?v=Oo8-nEuDBkk
 
 
-AI Mail Client
+AI Mail Client - try
+https://www.youtube.com/watch?v=Qm7-7PnszM4
 https://www.youtube.com/watch?v=Qm7-7PnszM4
 
 AI Medical RAG for Medical Diagnostic Reports
 https://www.youtube.com/watch?v=per5An56zgs
+
+AI - Text to SQL
+https://www.youtube.com/watch?v=wFdFLWc-W4k
+
+AI Content generation SAAS for creating LinkenIn Post, Twitter Thread, Instagram Caption
+https://www.youtube.com/watch?v=BP92C0eF_2M
+
+AI based chatbot against a knowledge base using Ollama, Flowwise, Custom RAG, Faiss Vector DB
+- Flowwise is a custom AI nocode tool for building solution using drag and drop, available as npx package
+https://www.youtube.com/watch?v=lJOZiRoZNJw
+https://www.youtube.com/watch?v=xJ3iohxHIGo  - with long term memory
