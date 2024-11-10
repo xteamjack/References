@@ -29,13 +29,7 @@ Search
     - Organzation
       - Size, Forbes rating, Nature of Work, Vertical
     - 
-  - education
-    - Course - 
-    - Areas of Specialization
-    - Research or Deserttation work
-    - Degree - MS, BS, 4year, 3 year
-    - College - Tier 1/2/3, International Rating
-    - region like US, UK, Aus, India
+
   - Credits
     - Papers
     - Conferences
@@ -48,3 +42,6 @@ Genuine Profiles
 
 
 Shortlisting
+
+
+

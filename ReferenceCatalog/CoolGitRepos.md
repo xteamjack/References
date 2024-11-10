@@ -303,3 +303,9 @@ AI based chatbot against a knowledge base using Ollama, Flowwise, Custom RAG, Fa
 - Flowwise is a custom AI nocode tool for building solution using drag and drop, available as npx package
 https://www.youtube.com/watch?v=lJOZiRoZNJw
 https://www.youtube.com/watch?v=xJ3iohxHIGo  - with long term memory
+
+Python Streamlit Template based digital resume
+- https://www.youtube.com/watch?v=BXAeMICmUSQ
+
+Professional headshots
+- https://www.youtube.com/shorts/QPDeXV9DyYI

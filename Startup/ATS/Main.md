@@ -5,8 +5,6 @@ Useful Sites
 
 https://www.levels.fyi/ - a clear list of job titles and levels with side by side comparison
 
-
-
 List of Areas
 
 - Profiles and JD with varying fitment %.
