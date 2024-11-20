@@ -27,5 +27,10 @@ https://www.youtube.com/watch?v=Q0_8oq3s35E
 - Ollama based chatbot
 https://www.youtube.com/watch?v=d0o89z134CQ
 
+- Channel: Various LLMs evaluated
+https://www.youtube.com/@fahdmirza/videos
+
+- Running unsensored AI models directly from Hugging face
+  - https://www.youtube.com/watch?v=8DPFQOS4p_M
 
 

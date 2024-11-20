@@ -1,0 +1,11 @@
+Consulting
+- Corporatate Training: Train on hot technology areas like AI, ML, Cyber Security
+- Strategic IT consulting: Define IT roadmap for CIO and CTO for better market preparation and cost optimization
+- Cyber Security: Access readiness, Define roadmap, Train staff
+- Cloud Ops - Cloud Computing, DevOps
+- App Dev (Hot Area): 
+  - UX design patterns, strategies, omni-channel implementations
+  - Technology portfolio - refine roadmap, rationalization, migration, sunset
+  - Blockchain - centric process tracing and foolproofing
+- Data Analytics and Intelligence
+  - AI driven data intelligence with Natural Language Interfaces

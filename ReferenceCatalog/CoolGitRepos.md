@@ -309,3 +309,12 @@ Python Streamlit Template based digital resume
 
 Professional headshots
 - https://www.youtube.com/shorts/QPDeXV9DyYI
+
+Excaliber - an free hand style web drawing JS library for collaboration
+- https://github.com/excalidraw/excalidraw
+
+Capacitor - to migrate a nextJS app to mobile and store on playstore or app store
+Expo - ecosystem to build mobile apps with react native
+
+Cool productivity and Team Workspace app in NextJS
+- https://www.youtube.com/watch?v=L3wBtVmnFho
