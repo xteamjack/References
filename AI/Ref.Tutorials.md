@@ -33,4 +33,11 @@ https://www.youtube.com/@fahdmirza/videos
 - Running unsensored AI models directly from Hugging face
   - https://www.youtube.com/watch?v=8DPFQOS4p_M
 
+- Building AI agent with ollama
+  - https://www.youtube.com/watch?v=9xsi3ksyQR8
 
+- Model Blending (mixing multiple models)
+  - https://www.youtube.com/watch?v=byf-y0P4hMg
+
+- evyAI, chrome plugin to interfact with LinkedIn
+  - https://www.youtube.com/watch?v=UwU6Y-kJjdM

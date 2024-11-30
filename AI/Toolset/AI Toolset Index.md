@@ -60,12 +60,23 @@ Tools
 - Page Assist with Ollama - LLM Chrome Extension with RAG
   - https://www.youtube.com/watch?v=GX1T-cpCja8
 
-- Unstructered - Tool to prepare unstructured data for RAG
+- Unstructered - Tool to prepare unstructured data for RAG (Extract data from docs, pdf, ...)
   - https://www.youtube.com/watch?v=gvY4FgMjZUE
 
+- Marker - pdf to markdown
+  - https://www.youtube.com/watch?v=mdLBr9IMmgI
+
+- LLocalSearch - OS perplexity clone
+  - https://www.youtube.com/watch?v=9xsi3ksyQR8
+
+Agent Framework
+- PhiData
 
 Agents
 
-- Magentic
+- MS Magentic
+  - https://www.youtube.com/watch?v=3o--9joRihU
 - Use Browser
   - https://www.youtube.com/watch?v=h6ibW12gWgs
+- Web LLM Assistant
+  - https://www.youtube.com/watch?v=txflvGG_hIc

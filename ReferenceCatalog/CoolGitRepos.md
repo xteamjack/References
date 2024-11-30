@@ -2,23 +2,18 @@ A very eloborate Hospital Management Solution built on Node, React, Solidity etc
 
 https://www.youtube.com/watch?v=kwNPIZYzQnw
 
-
 Healthcare Dapp
 https://www.youtube.com/watch?v=fWFP32vlkPs
-
 
 Drug Research Platform
 https://www.youtube.com/watch?v=8tGG_AzLdRI
 https://github.com/mendsalbert/ProteinBind
 
-
 Community web site with cool features, nextJs 15, bun, stripe, shadcn ui, uploadcare
 https://www.youtube.com/watch?v=pyFbM7_Ixno
 
-
 Network Simulator
 https://www.youtube.com/watch?v=_XazRLOsjZU
-
 
 3D Landind pages
 https://www.youtube.com/watch?v=RKQqrNyAC6k
@@ -29,10 +24,8 @@ https://www.youtube.com/watch?v=pyFbM7_Ixno&t=538s
 Website Builder
 https://www.youtube.com/watch?v=6omuUOZcWL0
 
-
 C# POS Desktop app
 https://www.youtube.com/watch?v=yU6wsIR37Gs
-
 
 Form builder for NextJS
 https://www.youtube.com/watch?v=QGXUUXy0AMw
@@ -40,21 +33,20 @@ https://www.youtube.com/watch?v=QGXUUXy0AMw
 Patient management, NextJS, shadcn
 https://www.youtube.com/watch?v=lEflo_sc82g
 
-File  management, NextJS, shadcn
+File management, NextJS, shadcn
 https://www.youtube.com/watch?v=27hMNWcsa-Y
 
-Ecom 
+Ecom
 https://www.youtube.com/watch?v=SG82Aqcaaa0
 
 Threads Clone | Full Stack MERN Next.js 14 Threads App | React, Next JS, TypeScript, MongoDB
 https://www.youtube.com/watch?v=O5cmLDVTgAs
 
-Digital Marketplace with Next.js 14, React, tRPC, Tailwind 
+Digital Marketplace with Next.js 14, React, tRPC, Tailwind
 https://www.youtube.com/watch?v=06g6YJ6JCJU
 
 Finance SaaS Platform With Nextjs, React, Honojs with CSV Upload
 https://www.youtube.com/watch?v=N_uNKAus0II
-
 
 AI Mock Interview App with Next.js | React, Drizzle ORM, Gemini AI, Clerk
 https://www.youtube.com/watch?v=Q5LM985yUmQ
@@ -92,10 +84,8 @@ https://www.youtube.com/watch?v=RiUh_8VTGYM
 Landing Page - React, Next.js, Tailwind, Framer Motion
 https://www.youtube.com/watch?v=Z7I5uSRHMHg
 
-
 A1111 like app
 https://www.youtube.com/watch?v=JAdBKMMcsNA&t=10s
-
 
 Interesting AI chat with website, any website with localhost/target_weburl
 https://www.youtube.com/watch?v=Ka8GoIUhM3g
@@ -109,7 +99,7 @@ https://www.youtube.com/watch?v=gvUsUpDlav4
 AI form Builder
 https://www.youtube.com/watch?v=zzWypOl4JkY
 
-Digital Market Place 
+Digital Market Place
 https://www.youtube.com/watch?v=yhYT0LO65vk
 
 Digital Identity Management App - Next.js, Tailwind CSS, TypeScript, and Solidity
@@ -120,7 +110,6 @@ https://www.youtube.com/watch?v=s8lt2bc0rDQ
 
 Google Chrome Extension - Track sessions and close tabs after session end
 https://www.youtube.com/watch?v=TWWpA5ttfRA&list=PLg4ez-XXTcoOwwy2t0cV2uwj0vQeJaWR5&index=28
-
 
 Create a chatbot with Python
 https://www.youtube.com/watch?v=-uEztHd_rbQ&list=PLg4ez-XXTcoPe91e9vFcCR5KsSJbUGFwU&index=2
@@ -143,10 +132,8 @@ https://www.youtube.com/watch?v=rbcChkafqu0
 Good NextJS Videos
 https://www.youtube.com/@codewithphuc
 
-
 Multiple Language Learning Tool
 https://www.youtube.com/watch?v=dP75Khfy4s4
-
 
 Spotify with Flutter
 https://www.youtube.com/watch?v=4TFbXepOjLI
@@ -154,7 +141,6 @@ https://www.youtube.com/watch?v=4TFbXepOjLI
 Good Job Platform Tools
 https://www.youtube.com/@VetrivelRavi/videos
 https://www.youtube.com/watch?v=qRwmWn_7Ipw
-
 
 Appointment Booking App
 https://www.youtube.com/watch?v=9HLNuE9Ta5E
@@ -197,18 +183,14 @@ Resume Ranking
 https://www.youtube.com/watch?v=CphVOnBUkg4
 https://www.youtube.com/watch?v=CphVOnBUkg4
 
-Resume Analyzer  - Try
+Resume Analyzer - Try
 Provide a good data extraction and insights on a resume. Through and comprehensive tutorial, good read
 https://www.youtube.com/watch?v=CC2q_IVwMwA&list=PLZLuc8eJafeEuR-7X5pb6xgGOPosuVty0
 https://www.youtube.com/playlist?list=PLZLuc8eJafeEuR-7X5pb6xgGOPosuVty0
 https://github.com/Spidy20/Smart_Resume_Analyser_App?tab=readme-ov-file
 
-
 Web3.0 Health Care Management Dapp | Next.js, Solidity, Hardhat & Context API Dapp
 https://www.youtube.com/watch?v=fWFP32vlkPs&t=6s
-
- 
-
 
 Job CV Matching - Checkin
 https://www.youtube.com/watch?v=EECUXqFrwbc
@@ -259,12 +241,13 @@ AI HR suggest jobs for a resume [2*]
 Scrapes Glassdoor Jobs, maps with resume parsed wity pyresparse. Source available as three notebooks
 https://www.youtube.com/watch?v=X83cDfwtFpw
 
-Resume creation and parsing [3*]  - Checkin
+Resume creation and parsing [3*] - Checkin
 A good series on resume parsing and creation. Complete NextJS app, parsing with typescript regex
+
 - Fresh resume can be created by fill in the data
 - An uploaded resume is parse to extract different data sections which can be augmented
 - Data can be filled into resume template and can be downloaded
-https://www.youtube.com/watch?v=2AQRBQC4s0Y
+  https://www.youtube.com/watch?v=2AQRBQC4s0Y
 
 Process different daily documents like invoices, statement etc.,and organize them
 https://www.youtube.com/watch?v=-pR5DMBq73Q
@@ -285,7 +268,6 @@ AI Based web scraping
 https://www.youtube.com/watch?v=-IAwW3pUEew
 https://www.youtube.com/watch?v=Oo8-nEuDBkk
 
-
 AI Mail Client - try
 https://www.youtube.com/watch?v=Qm7-7PnszM4
 https://www.youtube.com/watch?v=Qm7-7PnszM4
@@ -300,21 +282,36 @@ AI Content generation SAAS for creating LinkenIn Post, Twitter Thread, Instagram
 https://www.youtube.com/watch?v=BP92C0eF_2M
 
 AI based chatbot against a knowledge base using Ollama, Flowwise, Custom RAG, Faiss Vector DB
+
 - Flowwise is a custom AI nocode tool for building solution using drag and drop, available as npx package
-https://www.youtube.com/watch?v=lJOZiRoZNJw
-https://www.youtube.com/watch?v=xJ3iohxHIGo  - with long term memory
+  https://www.youtube.com/watch?v=lJOZiRoZNJw
+  https://www.youtube.com/watch?v=xJ3iohxHIGo - with long term memory
 
 Python Streamlit Template based digital resume
+
 - https://www.youtube.com/watch?v=BXAeMICmUSQ
 
 Professional headshots
+
 - https://www.youtube.com/shorts/QPDeXV9DyYI
 
 Excaliber - an free hand style web drawing JS library for collaboration
+
 - https://github.com/excalidraw/excalidraw
 
 Capacitor - to migrate a nextJS app to mobile and store on playstore or app store
 Expo - ecosystem to build mobile apps with react native
 
 Cool productivity and Team Workspace app in NextJS
+
 - https://www.youtube.com/watch?v=L3wBtVmnFho
+
+Chat with SQL
+
+- https://www.youtube.com/watch?v=CaxNpai7rNo
+- https://www.youtube.com/watch?v=akW4sWuZWuc
+- https://www.youtube.com/watch?v=1FeBkAccobY&t=822s
+
+Next JS Journal App
+
+- https://www.youtube.com/watch?v=cYGAPVUtQ-U
