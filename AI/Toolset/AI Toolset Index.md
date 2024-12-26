@@ -3,20 +3,21 @@ Napkin AI - Generate graphics from text
 https://www.youtube.com/watch?v=wBpHQgMrSnE
 https://www.youtube.com/watch?v=Xv_aYCt-Vco
 
-
-Notebook LM - 
+Notebook LM -
 
 Running LLM Locally
+
 - Ollama
 - AnythingLLM
 - n8n.io/self-hosted-ai-starter-kit
 - vLLM
 
 Interfaces
+
 - OpenWebUi
 
-
 AI Code Generators
+
 - Bolt.new: Open Source can run on windows 11
   - Can generate complete code based on the prompts
   - SEO optimization
@@ -29,23 +30,28 @@ AI Code Generators
 - SrcBook
 
 Docling - IBM document parsing tool to parse PDF file into different formats
-  - can handle different formats and layouts
-  - https://www.youtube.com/watch?v=9gDJ6PhvVck
+
+- can handle different formats and layouts
+- https://www.youtube.com/watch?v=9gDJ6PhvVck
 
 Interest LLM
+
 - OpenCompass/CompassJudger-1
+
   - Model for subjective judgement
   - https://www.youtube.com/watch?v=5qneubqfEfE
 
 - Granite3 - IBM's LLM for code gen and rag
 
 - SmolLM2 - Small for CPU / GPU / Mobile
+
   - Small family of models for quick usage
 
 - Zerox OCR - OCR image based mode
   https://www.youtube.com/watch?v=8aD3jcgRMl0
 
-- Llama OCR 
+- Llama OCR
+
   - https://www.youtube.com/watch?v=5vScHI8F_xo
 
 - Code Gen Models
@@ -53,23 +59,25 @@ Interest LLM
     - Competes with Claude for reliable code generation
     - Can run locally on Ollama and integrate with oTTaDev or bolt.new fork
 
-
-
 Tools
 
 - Page Assist with Ollama - LLM Chrome Extension with RAG
+
   - https://www.youtube.com/watch?v=GX1T-cpCja8
 
 - Unstructered - Tool to prepare unstructured data for RAG (Extract data from docs, pdf, ...)
+
   - https://www.youtube.com/watch?v=gvY4FgMjZUE
 
 - Marker - pdf to markdown
+
   - https://www.youtube.com/watch?v=mdLBr9IMmgI
 
 - LLocalSearch - OS perplexity clone
   - https://www.youtube.com/watch?v=9xsi3ksyQR8
 
 Agent Framework
+
 - PhiData
 
 Agents
@@ -80,3 +88,8 @@ Agents
   - https://www.youtube.com/watch?v=h6ibW12gWgs
 - Web LLM Assistant
   - https://www.youtube.com/watch?v=txflvGG_hIc
+
+Uncategorized
+
+- Cline, Claude
+- MCP - Model context Protocol
