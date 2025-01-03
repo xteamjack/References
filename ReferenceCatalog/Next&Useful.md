@@ -169,10 +169,70 @@
   - https://www.youtube.com/watch?v=ZjAqacIC_3c&list=PLC3y8-rFHvwjOKd6gdf4QtV1uYNiQnruI
 
 - AI Powered Email Client - NextJS 14, OpenAI, Stripe, Prisma, Clerk
+
   - https://www.youtube.com/watch?v=Qm7-7PnszM4&t=549s
   - https://github.com/elliott-chong/normalhuman
   - Full functional with multiple email id registration, search,
   - AI reply generation, RAG based Chat
+  - Different plans with upgrade functionality
+  - trpc for connecting with email servre
+  - WebHooks for debugging
   - UI
     - Simple, minimalistic UI inspired by ShadCn
-    -
+    - Dark and light themes
+    - Pane slider
+
+- AI Powered PDF Client, use can upload and chat on the context of a PDF
+
+  - https://www.youtube.com/watch?v=bZFedu-0emE
+  - https://github.com/elliott-chong/chatpdf-yt
+  - Next14, ClerkJS, DrizzleORM, Neon DBaaS, Stripe, AWS S3,
+  - AI: PineconeDB (VectorDB), LangChain, OpenAI, Vercel AI SDK
+  - Edge Runtime, RAG
+  - UI
+    - Dynamically add chat threads to left bar
+
+- Caching SWR (Stale-While-Revalidate)
+
+  - https://www.youtube.com/watch?v=5a1-BuwwemY
+  - Client side caching with Verecel SWR library
+
+- Next Auth - Auth library implementation
+
+  - https://www.youtube.com/watch?v=bMYZSi_LZ2w
+  - Github, google providers
+  - Magic email links
+  - Profile data updates
+  - Client vs. Server auth tokens, caching
+  - Auth data updates thru prisma
+
+- Next Auth V5
+
+  - https://www.youtube.com/watch?v=DNtsJlmPda8
+
+- Next Auth v5
+
+  - https://www.youtube.com/watch?v=2LRLsMracAY
+
+- Whatsapp Web Clone
+
+  - https://www.youtube.com/watch?v=9afMU7GOcAg
+  - Push Notifications
+
+- AI chatbot
+
+  - https://www.youtube.com/watch?v=mkJbEP5GeRA
+
+- Zoom Clone
+
+  - https://www.youtube.com/watch?v=BL1ixDaanY8
+
+- Social Media App
+
+  - https://www.youtube.com/watch?v=TyV12oBDsYI&t=115s
+  - Features
+    - Infinite scroll, load template,
+    - Feeds: You are Following, Recommended for you, Bookmarks
+
+- Form Builder, AI, Drag and Drop, Nextjs, Prisma, Neon Postgres, Kinde, Tailwind & Gemini AI
+  - https://www.youtube.com/watch?v=ldL2miSvZ8E

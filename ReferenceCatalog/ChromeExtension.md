@@ -23,4 +23,11 @@
   - https://github.com/lovelindhoni/postedin-analytics
 
 - Chrome Extension Tutorial
+
   - https://www.youtube.com/watch?v=j7TV07HMJx8&list=PLpK4o0_QVT48XNDQ3UwyT7zFK2oL4-6Te&index=1
+
+- Authentication in Chrome Extension
+  - https://www.youtube.com/watch?v=NxHVnK00Q6k
+  - Authenticates with Google Auth, tries to address the challenge of google auth keys expiring after 1 hour
+  - Plugin can help loggin into multiple website and keep the session sticky
+  - This might help in LinkedIn and Naukri, explore

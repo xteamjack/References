@@ -1,0 +1,2 @@
+- AI Powered Hedge Funds
+  - https://github.com/virattt/ai-hedge-fund
