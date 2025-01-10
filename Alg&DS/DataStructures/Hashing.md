@@ -1,0 +1,2 @@
+Mod Hashing
+Consistent Hashing

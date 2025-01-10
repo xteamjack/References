@@ -88,8 +88,12 @@ Agents
   - https://www.youtube.com/watch?v=h6ibW12gWgs
 - Web LLM Assistant
   - https://www.youtube.com/watch?v=txflvGG_hIc
+- Browser Use
+  - https://www.youtube.com/watch?v=EkNcupfztL0
 
 Uncategorized
 
 - Cline, Claude
 - MCP - Model context Protocol
+
+

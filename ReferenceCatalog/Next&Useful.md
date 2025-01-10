@@ -236,3 +236,7 @@
 
 - Form Builder, AI, Drag and Drop, Nextjs, Prisma, Neon Postgres, Kinde, Tailwind & Gemini AI
   - https://www.youtube.com/watch?v=ldL2miSvZ8E
+
+- Google Docs clone - Next 15, React, Tailwind (2024)
+  - https://www.youtube.com/watch?v=gq2bbDmSokU&t=286s
+  - Very much similar
