@@ -1,0 +1,44 @@
+P1 - Build well refined dataset
+- Setup boards
+  - linkedin
+    - [*] Check credentials and setup account
+  - foundit
+    - [*] Check credentials and setup account
+  - naukri
+  - sixth sense
+    - Demo
+- Posting
+  - Spoc manually sends email
+  - Email agent listens and Post to boards
+    - [$] script to post to linkedin
+- Capture Data
+  - [$] linkedin - imap script to pull emails and post to store
+    - Save email to store/jobcode/full_name
+    - Save data to db {}
+  - [?] Found It
+  - [?] Sixth Sense - scrapper to pull data to store
+- Process Data
+- Person picks on board
+  - **Doc agent listens to DB and converts
+    - Setup llama3.2 model on gpu3 
+    - connect from laptop with web-ui
+  - Python program to process the document
+    - original->pdf, pdf->json
+  - Nodejs app to save to mongo with suitable data model
+    - Map json to data model
+    - Sanitize the data before saving to DB
+      - Partition the data into different blocks, validate by each block
+- **wapp agent listens and initiate the conversation
+- **wapp agent captures data for each block as per the partitions
+  - Identify data batches
+  - Create data forms for each area
+- Additional agents (???) monitors and validates the data
+  - What agents and semantics to be decided
+- ... other stages to be identified
+- Manual data validation and certification
+
+P2 - Build pipeline for consumption
+- Mapping agent maps JD with person
+- Sort pick and publish top n qualified data items
+- Run through pipeline and capture data points across each step of the pipeline
+- Manually validate the data points and take corrective action

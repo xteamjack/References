@@ -15,7 +15,7 @@ Form
 Data Page
 - Grid
 - Table
-Component Libraries (Tailwind Suppirted)
+Component Libraries (Tailwind Supported)
 - ShadCn: Good simple, but limited
 - Skeleton: Svelt only??, good theme customization
 - NextUI.org

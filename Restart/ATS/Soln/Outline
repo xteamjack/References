@@ -1,0 +1,34 @@
+- Objectives
+  - 10M/1Cr data items
+  - 2M/20L potential
+  - Close 100/month (@1.5) 1.5c
+- Publish Item & Pull Responses
+  - Options (Self / Mtal/ Cpal / TalRec)
+  - Free
+    - Self
+      - 1/month
+    - Mtal
+      - More (unlimited???)
+  - Slot
+    - Self
+      - XML publish ???
+        - gh pages, custom domain  (***)
+        - zeta mandatory ???
+      - Responses to email (Zeta mandatory ???)
+        - pull data through script
+        - pull data through plugin
+    - Mtal
+      - Create in here and there
+- Comm Channel
+  - Ping
+  - EoI
+  - Loop For each Query
+    - Capture and parse responses
+  - Submit
+  - Ack Feedback
+- Submit
+  - Package
+    - Profile, Validation, Summary, PiC, Proof
+    - Standard Template
+    - Comm Trace
+    - Background

@@ -1,0 +1,13 @@
+  - libraries step
+    - Naming convention tech."tech"."lib".<fn>
+      - python.tech.lib.sys
+      - python.tech.lib.utils
+      - python.tech.lib.xcuts
+  - apps setup: 
+    - App structure tech.org.fn.name 
+      - (fn: agent, script, mw, web, desktop, mobile, api,)
+      - (name: data, <biz>)
+    - python.dh.agent.rParser
+    - python.dh.agent.mClient
+    - python.dh.agent.whatsapp
+    - python.hb.iBrws
