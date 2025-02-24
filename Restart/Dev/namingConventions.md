@@ -1,8 +1,8 @@
   - libraries step
     - Naming convention tech."tech"."lib".<fn>
-      - python.tech.lib.sys
-      - python.tech.lib.utils
-      - python.tech.lib.xcuts
+      - python.tech.libs.sys
+      - python.tech.libs.utils
+      - python.tech.libs.xcuts
   - apps setup: 
     - App structure tech.org.fn.name 
       - (fn: agent, script, mw, web, desktop, mobile, api,)
